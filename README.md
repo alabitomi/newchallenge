@@ -1,6 +1,4 @@
 # newchallenge
-Resume
-<!DOCTYPE html>
 <html>
 <head>
 <link href="main.css" rel="stylesheet"/>
@@ -31,9 +29,10 @@ Resume
 </div>
 <div class=Relevant Experience>
 	<div class=container>
-		<h3> Relevant Experience</h3>
-		<h5>Sekunda Investments LLC                           February 2010 - December 2014</h5>
-        <h6>Retail Trader</h6><ul>
+<h3> Relevant Experience</h3>
+<h3>Sekunda Investments LLC                           February 2010 - December 2014</h3>
+        <h3>Retail Trader</h3>
+ <ul>
 <li>Analysing ,automating trading strategies</li>
 <li>Trading Futures, Commodity, Equity and Forex markets.</li>
 </ul>
